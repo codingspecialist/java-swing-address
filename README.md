@@ -1,6 +1,6 @@
 ### java-swing-address
 
-```java
+```sql
 create table member(
     id number PRIMARY KEY,
     name varchar2(20),
